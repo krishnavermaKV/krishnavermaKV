@@ -114,16 +114,16 @@
 
 <h3 align="left">📊 Most Used Languages</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnavermakv&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnavermaKV&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnavermakv" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnavermaKV" />
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=krishnavermakv&show_icons=true&locale=en" />
+       src="https://github-readme-stats.vercel.app/api?username=krishnavermaKV&show_icons=true&locale=en" />
 </p>
